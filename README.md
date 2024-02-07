@@ -5,11 +5,11 @@
 O projeto consiste em uma aplicação Java que utiliza DAO (Data Access Object) para acessar e manipular dados em um banco de dados MySQL. Ele inclui as seguintes operações:
 
 - Busca de vendedores por ID
-- Listagem de todos os vendedores
+- Listagem de todos os vendedores ou departamentos
 - Busca de vendedores por departamento
-- Inserção de novos vendedores
+- Inserção de novos vendedores ou departamentos
 - Atualização de informações de vendedores
-- Exclusão de vendedores
+- Exclusão de vendedores ou departamentos
 
 ## Pré-requisitos
 
