@@ -1,7 +1,7 @@
 
 
-CREATE DATABASE ecomerce;
-USE ecomerce;
+CREATE DATABASE ecommerce;
+USE ecommerce;
 
 CREATE TABLE department (
   Id int(11) NOT NULL AUTO_INCREMENT,
